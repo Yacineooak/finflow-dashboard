@@ -263,17 +263,14 @@ Special thanks to the open source community and these amazing projects:
 
 ## 📞 Support & Community
 
-- **📧 Email**: [support@financeflow.com](mailto:support@financeflow.com)
-- **💬 Discord**: [Join our community](https://discord.gg/financeflow)
-- **🐛 Issues**: [GitHub Issues](https://github.com/yourusername/financeflow/issues)
-- **📚 Documentation**: [docs.financeflow.com](https://docs.financeflow.com)
-- **🌐 Website**: [financeflow.com](https://financeflow.com)
+- **📧 Email**: [stylebenderkh@gmail.com](mailto:stylebenderkh@gmail.com)
+- **🌐 Website**: [https://finflow-dashboard.vercel.app/](https://finflow-dashboard.vercel.app/)
 
 ---
 
 <div align="center">
 
-**Built with ❤️ by the FinanceFlow team**
+**Built with ❤️ by Khaldi Yacine**
 
 *Making personal finance accessible, intelligent, and enjoyable for everyone.*
 
