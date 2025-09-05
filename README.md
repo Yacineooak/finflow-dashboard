@@ -6,12 +6,14 @@ A comprehensive personal finance analytics platform built with Next.js 15, featu
 ![Next.js](https://img.shields.io/badge/Next.js-15-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4.0-38B2AC)
+<img width="1877" height="921" alt="obibbvvv" src="https://github.com/user-attachments/assets/88342034-5a91-4f89-a521-2df612ca00da" />
 
 ## 🌟 Overview
 
 FinanceFlow transforms complex financial data into actionable insights through beautiful, interactive dashboards. Whether you're tracking daily expenses, planning long-term goals, or analyzing investment performance, FinanceFlow provides the tools you need to make informed financial decisions.
 
 ## ✨ Key Features
+<img width="1898" height="921" alt="84461165" src="https://github.com/user-attachments/assets/f2e55756-d757-4d53-b3b6-6fd3c15fe6e7" />
 
 ### 📊 **Advanced Analytics Dashboard**
 - **Real-time KPI Monitoring**: Track balance, income, expenses, and savings rate with live updates
@@ -38,6 +40,8 @@ FinanceFlow transforms complex financial data into actionable insights through b
 - **Market Insights**: Trend analysis and investment recommendations
 
 ### 📅 **Bill Management**
+<img width="1901" height="921" alt="zerdtfyguhij" src="https://github.com/user-attachments/assets/af9a86cc-8000-48cc-8a09-b23b4b552c8a" />
+
 - **Payment Scheduling**: Automated reminders for upcoming bills
 - **Payment History**: Complete audit trail of all bill payments
 - **Budget Integration**: Bills automatically integrated with budget planning
