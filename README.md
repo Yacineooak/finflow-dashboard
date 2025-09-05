@@ -1,4 +1,4 @@
-# FinanceFlow 💼
+# FinFlow 💼
 
 A comprehensive personal finance analytics platform built with Next.js 15, featuring real-time data visualization, intelligent insights, and modern financial management tools.
 
